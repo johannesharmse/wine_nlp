@@ -108,3 +108,4 @@ data/wine-reviews/*
 
 # models
 src/EDA/word2vec/*
+src/EDA/lstm/*
