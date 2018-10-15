@@ -105,3 +105,6 @@ venv.bak/
 
 # data
 data/wine-reviews/*
+
+# models
+src/EDA/word2vec/*
