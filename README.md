@@ -13,3 +13,11 @@ Below table contains files of relevance.
 | File  | Description  |
 |---|---|
 | [`EDA.ipynb`](https://github.com/johannesharmse/wine_nlp/blob/master/src/EDA/EDA.ipynb)  | Notebook containing the all code and process explanation.  |
+
+## Credit
+
+The following pages were used as inspiration for this project:
+
+[Tensorflow Word2Vec Basic](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/word2vec/word2vec_basic.py)
+
+[O'Reilly - Perform sentiment analysis with LSTMs, using Tensorflow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
