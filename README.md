@@ -1,5 +1,9 @@
 # NLP on Wine Reviews
 
+![](additional/images/word2vec.png)
+
+![](additional/images/validation.png)
+
 ## Objective
 
 Predict the score of a wine review based purely on the textual features on the review.
@@ -13,6 +17,7 @@ Below table contains files of relevance.
 | File  | Description  |
 |---|---|
 | [`EDA.ipynb`](https://github.com/johannesharmse/wine_nlp/blob/master/src/EDA/EDA.ipynb)  | Notebook containing the all code and process explanation.  |
+
 
 ## Credit
 
